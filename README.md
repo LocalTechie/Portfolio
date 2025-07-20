@@ -1,5 +1,5 @@
 
-<html>
+<html lang="en">
   <body>
     <h1 title="I'm a header">ADRIEN QUITASOL</h1>
     <h2>(bio)</h2>

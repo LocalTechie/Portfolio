@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>HEllO!</h1>
-      <h2>I'm Adrien Quitasol, And this is my portfolio</h2>
+    <h1>HELLO! I'm Adrien Quitasol and this is my portfolio</h1>
   </body>
 </html>

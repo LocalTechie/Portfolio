@@ -11,7 +11,7 @@
     <h2>(bio)</h2>
       <button>This buton does nothing</button>
       <h2>CONTACT ME</h2>
-      <p>
+      <p style="color:white">
           <a href="mailto:"adrienquitasol@yahoo.com">adrienquitasol@yahoo.com</a>
       </p>
   </body>

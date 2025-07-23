@@ -10,5 +10,9 @@
     <h1 style="font-size:60px;Font-family:Verdana;text-allign:center;"><b>ADRIEN QUITASOL</b></h1>
     <h2>(bio)</h2>
       <button>This buton does nothing</button>
+      <h2>CONTACT ME</h2>h2>
+      <p>
+          <a mailto="adrienquitasol@yahoo.com">adrienquitasol@yahoo.com</a>
+      </p>
   </body>
 </html>

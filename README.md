@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
     <style> 
-      <h1> {color:white}
-      <p> {color:white}
+      h1 {color:white;}
+      p {color:white;}
     </style>
   </head>
   <body style="background-color:rgb( 60, 60, 60);">

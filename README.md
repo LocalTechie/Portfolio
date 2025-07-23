@@ -12,7 +12,7 @@
       <button>This buton does nothing</button>
       <h2>CONTACT ME</h2>
       <p>
-          <a mailto="adrienquitasol@yahoo.com">adrienquitasol@yahoo.com</a>
+          <a href="mailto:"adrienquitasol@yahoo.com">adrienquitasol@yahoo.com</a>
       </p>
   </body>
 </html>

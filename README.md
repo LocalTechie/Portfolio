@@ -1,6 +1,7 @@
 
 <html lang="en">
     <head>
+        <title> Adrien Q's Portolio </title>
         <style> 
           h1{color:white;}
           h2{color:white;}

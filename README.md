@@ -13,7 +13,7 @@
     <h2>(bio)</h2>
       <p>Should this stress you out, feel free to spam this button. It does nothing.</p>
       <button>This buton does nothing</button>
-      <h2>CONTACT ME</h2>
+      <h2 border:2px>CONTACT ME</h2>
       <p>
           <a href="mailto:adrienquitasol@yahoo.com">adrienquitasol@yahoo.com</a>
       </p>

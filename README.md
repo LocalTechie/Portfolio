@@ -8,8 +8,6 @@
         p{color:white}
         </style>
     </head>
-    <ul>
-        <li><a href="#home">Home</a></li>
   <body style="background-color:rgb( 60, 60, 60);">
     <h1 style="font-size:60px;Font-family:Verdana;text-allign:center;"><b>ADRIEN QUITASOL</b></h1> <img src= ;float:right> <!-- NEED HEADSHOT-->
     <p style="font-size:200%">(bio)</p>

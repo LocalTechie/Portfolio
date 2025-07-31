@@ -10,7 +10,7 @@
         </style>
     </head>
   <body style="background-color:rgb( 60, 60, 60);">
-    <h1 style="Font-family:Verdana;text-allign:center;font-size:10vw;"><b>ADRIEN QUITASOL</b></h1> <img src= ;float:right> <!-- NEED HEADSHOT-->
+    <h1 style="Font-family:Verdana;text-allign:center;font-size:5vw;"><b>ADRIEN QUITASOL</b></h1> <img src= ;float:right> <!-- NEED HEADSHOT-->
     <p style="font-size:200%">(bio)</p>
       <p>Should this stress you out, feel free to spam this button. It does nothing.</p>
       <button>This buton does nothing</button>

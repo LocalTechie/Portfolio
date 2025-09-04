@@ -1,4 +1,4 @@
-
+<DOCTYPE!=html>
 <html lang="en">
     <head>
         <meta name="viewport" content="width=device-width; initial-scale=1.0"></meta>
@@ -12,9 +12,7 @@
     </head>
   <body style="background-color:rgb( 60, 60, 60);">
     <h1 style="Font-family:Verdana;text-allign:center;font-size:5vw;"><b>ADRIEN QUITASOL</b></h1> <img src= ;float:right> <!-- NEED HEADSHOT-->
-    <p style="font-size:200%">(bio)</p>
-      <p>Should this stress you out, feel free to spam this button. It does nothing.</p>
-      <button>This buton does nothing</button>
+    <p style="font-size:200%">I am a 17 year old technician currently studying at Skyline High School. I have done technical theatre work for the last 5 years and have worked on various productions like musicals, plays, and concerts. I enjoy movies, video games, as well as theatre. </p>
       <section>
       <h2>CONTACT ME</h2>
       <p>
